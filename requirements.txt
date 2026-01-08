@@ -24,9 +24,6 @@ sqlalchemy==2.0.25
 psycopg2-binary==2.9.9
 alembic==1.13.1
 
-# Visualization
-matplotlib==3.8.2
-seaborn==0.13.1
+# Dashboard
+streamlit==1.29.0
 plotly==5.18.0
-jupyter==1.0.0
-ipywidgets==8.1.1
