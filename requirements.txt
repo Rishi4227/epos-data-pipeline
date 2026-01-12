@@ -27,3 +27,5 @@ alembic==1.13.1
 # Dashboard
 streamlit==1.29.0
 plotly==5.18.0
+
+
